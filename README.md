@@ -22,6 +22,7 @@ Floradex is an interactive digital plant encyclopedia designed to make botanical
     Search Algorithm: Linear Search
 
 🏗️ Getting Started
+
 1️⃣ Clone the Repository
 
     git clone https://github.com/your-username/floradex.git
