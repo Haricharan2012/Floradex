@@ -37,8 +37,8 @@ Ensure you have Raylib installed:
 For Windows, download Raylib from raylib.com and set up your compiler.
 3️⃣ Compile and Run
 
-    gcc -o floradex traywinui.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
-    ./floradex
+    gcc traywinui.c -o result -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+    ./result
 
 🎮 Controls
 
