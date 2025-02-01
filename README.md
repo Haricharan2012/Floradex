@@ -35,7 +35,8 @@ Ensure you have Raylib installed:
     sudo apt install libraylib-dev  # (Linux)
     brew install raylib             # (Mac)
 
-For Windows, download Raylib from raylib.com and set up your compiler.
+For Windows, download Raylib from raylib.com and set up your compiler.\
+
 3️⃣ Compile and Run
 
     gcc traywinui.c -o result -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
