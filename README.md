@@ -62,6 +62,12 @@ Floradex uses a linear search to locate specific plants in the collection. This 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 📜 License
 
+
+
+
+https://github.com/user-attachments/assets/e0739c07-5937-4880-8825-f8965968100f
+
+
 This project is licensed under the MIT License.
 
 
