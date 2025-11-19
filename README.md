@@ -3,7 +3,7 @@
 Floradex is an interactive digital plant encyclopedia designed to make botanical learning engaging and immersive. Inspired by the Pokédex, this application provides a visually appealing and intuitive platform to explore wild plants. Built using the Raylib framework, it ensures a smooth user experience with an interactive UI and efficient data management.
 🚀 Features
 
-✅ Point-and-Click Interface: Navigate using the mouse—no arrow keys required!
+✅ Point-and-Click Interface: Navigate using the mouse—no arrow keys required!<br>
 ✅ Interactive Plant Encyclopedia: Explore different plant species with images, details, and habitat descriptions.
 ✅ Linear Search Algorithm: Find specific plants efficiently using a linear search.
 ✅ Stack-Based Data Handling: Uses a stack to manage the plant info screens efficiently.
