@@ -4,13 +4,13 @@ Floradex is an interactive digital plant encyclopedia designed to make botanical
 🚀 Features
 
 ✅ Point-and-Click Interface: Navigate using the mouse—no arrow keys required!<br>
-✅ Interactive Plant Encyclopedia: Explore different plant species with images, details, and habitat descriptions.
-✅ Linear Search Algorithm: Find specific plants efficiently using a linear search.
-✅ Stack-Based Data Handling: Uses a stack to manage the plant info screens efficiently.
-✅ Graphical UI with Raylib: Modern, responsive UI with textures, animations, and interactive elements.
-✅ Collection Feature: Add plants to your collection and revisit them anytime.
-✅ Optimized for Performance: Implements collision detection and optimized event handling for smooth performance.
-✅ Time & Space Efficiency: Designed with O(f × n) time complexity and O(1) space complexity.
+✅ Interactive Plant Encyclopedia: Explore different plant species with images, details, and habitat descriptions.<br>
+✅ Linear Search Algorithm: Find specific plants efficiently using a linear search.<br>
+✅ Stack-Based Data Handling: Uses a stack to manage the plant info screens efficiently.<br>
+✅ Graphical UI with Raylib: Modern, responsive UI with textures, animations, and interactive elements.<br>
+✅ Collection Feature: Add plants to your collection and revisit them anytime.<br>
+✅ Optimized for Performance: Implements collision detection and optimized event handling for smooth performance.<br>
+✅ Time & Space Efficiency: Designed with O(f × n) time complexity and O(1) space complexity.<br>
 📸 Screenshots
 
 
